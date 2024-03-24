@@ -10,7 +10,9 @@
   "author": "WAsiddiqui",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.16",
+    "wa00cli-number-guessing-games": "^2.0.1",
+    "wa00cli-number-gusseing-games": "^1.0.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
