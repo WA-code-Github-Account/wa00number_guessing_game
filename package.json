@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "wa00cli-number-guessing-games",
+=======
+  "name": "wa00cli-number-gusseing-games",
+>>>>>>> a6cf246bddbe31a995afc0d297dfb08cfee7fd4a
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
