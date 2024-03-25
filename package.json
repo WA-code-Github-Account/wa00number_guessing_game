@@ -18,5 +18,5 @@
   "@types/inquirer": "^9.0.7",
   "@types/node": "^20.11.30"
 },
-"bin":"main.js"
+"bin":"number_guessing_game.js"
 }
